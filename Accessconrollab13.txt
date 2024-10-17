@@ -1,0 +1,12 @@
+Referer-based access control
+
+Credentials 
+1. administrator: admin
+2. wiener: peter
+
+End Goal
+1. Promote yourself to become an administrator.
+
+Anaylisis
+1. Login as the administrator and see how the administrator works 
+2. Login as the wiener user and promote to administrator
